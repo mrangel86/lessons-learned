@@ -10,7 +10,6 @@
 
 3. Front-End Frameworks that Assist with Creating Responsive Web Applications
   * Twitter Bootstrap [Download here!](http://getbootstrap.com/)
-  * Zurb Foundation [Download here!](http://getbootstrap.com/)
 
 4. Mobile Application
   * At some point, users may prefer a native mobile application rather than accessing the site over the web.
