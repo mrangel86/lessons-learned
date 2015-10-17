@@ -1,6 +1,6 @@
 ![Mobile > Computer](https://apppresser.com/wp-content/uploads/2014/12/app-vs-web-770-770x250.png)
 
-### Out with the old: ~~standard website~~ - And, in with the new: **Mobile Optimized Website** 
+### Out with the old: standard website - And, in with the new: **Mobile Optimized Website** 
 
 :one: Standard Website vs. Mobile Optimized Website 
   * With the majority of page views coming from mobile devices, it almost seems unresponsible to create just a standard website.
